@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidad</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.7;
+    }
+    h1 { font-size: 28px; }
+    h2 { font-size: 18px; margin-top: 2rem; }
+    p { font-size: 16px; }
+  </style>
+</head>
+<body>
+
+<h1>Política de Privacidad</h1>
+<p><strong>Última actualización:</strong> abril de 2026</p>
+
+<p>Esta política de privacidad describe cómo funciona la aplicación de control de gatos (en adelante, "la App"). Nos comprometemos a proteger tu privacidad.</p>
+
+<h2>1. Información que recopilamos</h2>
+<p>La App <strong>no recopila ningún dato personal</strong> de los usuarios. No se solicita nombre, correo electrónico, ubicación, ni ningún otro dato de identificación.</p>
+
+<h2>2. Uso de datos</h2>
+<p>Dado que la App no recopila datos, no hay ningún tipo de uso, procesamiento ni almacenamiento de información personal. Toda la información que introduces en la App permanece únicamente en tu dispositivo.</p>
+
+<h2>3. Almacenamiento local</h2>
+<p>La App funciona completamente de forma local en tu dispositivo. No se envía ningún dato a servidores externos ni a terceros.</p>
+
+<h2>4. Servicios de terceros</h2>
+<p>La App no utiliza servicios de terceros como análisis, publicidad, redes sociales ni otros servicios externos. No hay SDK de terceros integrados que recopilen datos.</p>
+
+<h2>5. Seguridad</h2>
+<p>Al no recopilarse ni transmitirse datos personales, el riesgo de exposición de información personal es inexistente.</p>
+
+<h2>6. Privacidad de menores</h2>
+<p>La App no recopila intencionalmente información de ninguna persona, incluidos menores de 13 años.</p>
+
+<h2>7. Cambios a esta política</h2>
+<p>Si en el futuro se realizan cambios en el funcionamiento de la App que impliquen la recopilación de datos, esta política será actualizada y se notificará a los usuarios.</p>
+
+<h2>8. Contacto</h2>
+<p>Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en: <a href="mailto:tu@correo.com">tu@correo.com</a></p>
+
+</body>
+</html>
